@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/4e786921-affc-450b-a0a9-c6705a985a5c)
 ## Hi there 👋
-
+![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowdevhyerin&show_icons=true&theme=neon)
 <!--
 **meowdevhyerin/meowdevhyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
