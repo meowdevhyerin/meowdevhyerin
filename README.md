@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:f5cce0,100:ecc5c0&height=200&text=HELLO%20WORLD!&animation=blinking&fontColor=795353&fontSize=70&fontFamily=JetBrains%20Mono" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:f5cce0,100:ecc5c0&height=300&text=HELLO%20WORLD!&animation=blinking&fontColor=795353&fontSize=70&fontFamily=JetBrains%20Mono" />
 </div>
 
 
