@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4e786921-affc-450b-a0a9-c6705a985a5c" width="300">
+    <img src="https://github.com/user-attachments/assets/4e786921-affc-450b-a0a9-c6705a985a5c" width="500">
 </div>
 
 <div style="text-align: left;">
