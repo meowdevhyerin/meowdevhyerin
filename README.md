@@ -1,6 +1,3 @@
-![Image](https://github.com/user-attachments/assets/4e786921-affc-450b-a0a9-c6705a985a5c)
-## Hi there 👋
-![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowdevhyerin&show_icons=true&theme=neon)
 <!--
 **meowdevhyerin/meowdevhyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +19,7 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
+    ![Image](https://github.com/user-attachments/assets/4e786921-affc-450b-a0a9-c6705a985a5c)
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=meowdevhyerin&bg_color=60,ffbdbd,a7e7ec&title_color=f708c3&text_color=f708c3"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowdevhyerin&layout=compact&bg_color=60,ffbdbd,a7e7ec&title_color=f708c3&text_color=f708c3"
+         /> ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowdevhyerin&show_icons=true&theme=neon)
            /> </div> 
     </div>
     
